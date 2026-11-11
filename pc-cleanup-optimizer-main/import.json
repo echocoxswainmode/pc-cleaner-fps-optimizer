@@ -1,7 +1,0 @@
-{
-  "keywords": ["pc-cleaner", "windows-cleaner", "disk-cleanup", "ram-cleaner", "startup-manager", "system-optimizer", "ccleaner-alternative", "temp-files-cleaner", "windows-11", "rust"],
-  "repo_name": "pc-cleanup-optimizer",
-  "repo_desc": "Free open source PC cleaner for Windows: disk space, RAM, CPU, startup",
-  "release_name": "Tidy-v1.0.0-win-x64.zip",
-  "app_name": "Tidy.exe"
-}
